@@ -37,10 +37,6 @@ root/
 ## 🖼️ Demo
 
 ![Todo App Screenshot](./main_ui.png)
-<h2 align="center">🖼️ Demo</h2>
-<p align="center">
-  <img src="./screenshot.png" width="700" alt="Todo App Screenshot" />
-</p>
 
 
 ## 🚀 Setup Instructions
